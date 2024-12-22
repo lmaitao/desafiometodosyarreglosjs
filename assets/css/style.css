@@ -1,0 +1,55 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+  }
+
+  .container {
+    background-color: rgba(166, 165, 172, 0.779);
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  input[type="text"] {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  li {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+  }
+
+  .completada {
+    text-decoration: line-through;
+    opacity: 0.5;
+  }
+
+p {
+    color: rgba(255, 0, 0, 0.762);
+    font-size: 16px;
+  }
+
+  #miEncabezado {
+    text-align: center;
+    background-color: rgba(211, 211, 211, 0.922);
+  }
